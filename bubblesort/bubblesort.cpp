@@ -34,7 +34,7 @@ void bubbleSortArray() {    // procedur untuk mengurutkan array dnegna metode bu
 			}
 		}
 	}
-}
+} 
 
 void unsorted() {
 	cout << endl;                             // Output baris kosong 
