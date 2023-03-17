@@ -56,7 +56,7 @@ void display() {  // procedur untuk menampilkan hasil
 		cout << a[j] << endl;               // Output ke layar 
 	}
 	cout << endl;                           // Output baris kosong 
-}
+} 
 
 int main() {
 	input();      // Memanggil procedur input()
