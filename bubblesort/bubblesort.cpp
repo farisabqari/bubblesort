@@ -45,7 +45,7 @@ void unsorted() {
 		cout << a[j] << endl;               // Output ke layar 
 	}
 	cout << endl;                           // Output baris kosong 
-}
+} 
 
 void display() {  // procedur untuk menampilkan hasil
 	cout << endl;                             // Output baris kosong 
